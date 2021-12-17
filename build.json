@@ -1,0 +1,11 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "C:/Dev/sistemas/lider7.gestaocomercial/app/chaves/Development_GertecDeveloper_EnhancedAPP.jks",
+            "storePassword": "Development@GertecDeveloper2018",
+            "alias": "developmentgertecdeveloper_enhancedapp",
+            "password" : "Development@GertecDeveloper2018",
+            "keystoreType": ""
+        }
+    }
+}
