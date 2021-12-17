@@ -1,3 +1,6 @@
+# Esse projeto foi compilado(Android 9.0), instalado e executado com sucesso no aparelho GPOS700.
+
+
 [![](https://pbs.twimg.com/media/EKzBdw7WwAQrq8J.png)](https://www.gertec.com.br/)
 
   - Impressão 
