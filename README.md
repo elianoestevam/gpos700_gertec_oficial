@@ -1,0 +1,1 @@
+# gpos700_gertec_oficial
